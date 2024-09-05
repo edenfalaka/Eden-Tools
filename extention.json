@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "Eden Tools",
+    "description": "Extensions for PyRevit",
+    "author": "Eden Falaka",
+    "author_profile": "https://github.com/edenfalaka",
+    "url": "https://github.com/edenfalaka/Eden-Tools.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
